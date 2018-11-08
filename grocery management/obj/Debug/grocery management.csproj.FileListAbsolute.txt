@@ -1,0 +1,12 @@
+i:\users\ai-osm\documents\visual studio 2013\Projects\grocery management\grocery management\bin\grocery management.dll.config
+i:\users\ai-osm\documents\visual studio 2013\Projects\grocery management\grocery management\bin\grocery management.dll
+i:\users\ai-osm\documents\visual studio 2013\Projects\grocery management\grocery management\bin\grocery management.pdb
+i:\users\ai-osm\documents\visual studio 2013\Projects\grocery management\grocery management\obj\Debug\grocery management.csprojResolveAssemblyReference.cache
+i:\users\ai-osm\documents\visual studio 2013\Projects\grocery management\grocery management\obj\Debug\grocery management.dll
+i:\users\ai-osm\documents\visual studio 2013\Projects\grocery management\grocery management\obj\Debug\grocery management.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\grocery management\grocery management\bin\grocery management.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\grocery management\grocery management\bin\grocery management.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\grocery management\grocery management\bin\grocery management.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\grocery management\grocery management\obj\Debug\grocery management.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\grocery management\grocery management\obj\Debug\grocery management.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\grocery management\grocery management\obj\Debug\grocery management.pdb
